@@ -1,4 +1,4 @@
-## Greetings, I’m Laura
+## Greetings, I’m Laura!
 
 - 🎓 Studying Computer Science at Universidade Federal de Sergipe
 - 💼 Working as a Back-end Developer - BaneseCard
