@@ -2,7 +2,7 @@
 
 - 🎓 Studying Computer Science at Universidade Federal de Sergipe
 - 💼 Working as a Back-end Developer - BaneseCard
-- 🌱 Learning more about Computer Vision
+- 🌱 Learning more about Image Processing
 
 ## 🚀 Skills
 
