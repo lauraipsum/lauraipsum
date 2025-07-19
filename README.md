@@ -38,18 +38,6 @@
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Linux"/><br><sub>Linux</sub></code> 
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows11"/><br><sub>Windows 11</sub></code> 
 
----
-
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/lauraipsum/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
 
 ---
 
