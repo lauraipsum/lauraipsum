@@ -53,7 +53,7 @@
 
 ---
 
-## 🌟 Get In Tocuh
+## 🌟 Get In Touch
 🔗 [![Linkedin](https://img.shields.io/badge/-laura--crds-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laura-crds/)](https://www.linkedin.com/in/laura-crds/)
 🐦 [![Twitter](https://img.shields.io/badge/-lawraipsum-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://x.com/lawraipsum)](https://x.com/lawraipsum)
 
